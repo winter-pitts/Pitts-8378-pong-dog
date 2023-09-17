@@ -8,6 +8,7 @@ TagManager:
   - RightScore
   - right
   - left
+  - multiball
   layers:
   - Default
   - TransparentFX
