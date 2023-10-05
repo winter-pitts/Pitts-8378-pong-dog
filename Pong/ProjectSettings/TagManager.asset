@@ -9,6 +9,9 @@ TagManager:
   - right
   - left
   - multiball
+  - coin
+  - bvall
+  - ball
   layers:
   - Default
   - TransparentFX
